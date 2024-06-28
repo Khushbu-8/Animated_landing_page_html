@@ -93,4 +93,7 @@ html,body{
         top: 20%;
 
     }
+    #scroll-div h1,#scroll-div2 h1, #scroll-div3 h1{
+        font-size: 70px;
+    }
 }
